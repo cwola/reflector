@@ -1,0 +1,25 @@
+{
+    "name": "cwola/reflector",
+    "description": "Providing simple reflections(Cwola library).",
+    "version": "1.0.0",
+    "type": "library",
+    "keywords": [
+        "php",
+        "reflector",
+        "reflection"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "r-jimbo"
+        }
+    ],
+    "require": {
+      "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cwola\\Reflector\\": "src/"
+        }
+    }
+}
