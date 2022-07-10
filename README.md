@@ -9,6 +9,11 @@ Providing simple reflections for PHP.
 ## Requirement
 - PHP8.0+
 
+## Installation
+```
+composer require cwola/reflector
+```
+
 ## Usage
 ```
 <?php
